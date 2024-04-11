@@ -1,0 +1,3 @@
+[submodule "OpenWeatherClient"]
+	path = OpenWeatherClient
+	url = https://github.com/k90262/OpenWeatherClient.git
